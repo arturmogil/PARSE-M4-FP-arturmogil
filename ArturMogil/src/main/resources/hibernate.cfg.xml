@@ -20,5 +20,7 @@
 
 
     <mapping class="ua.com.javarush.parse.m4.domain.Country"/>
+    <mapping class="ua.com.javarush.parse.m4.domain.City"/>
+    <mapping class="ua.com.javarush.parse.m4.domain.CountryLanguage"/>
   </session-factory>
 </hibernate-configuration>
